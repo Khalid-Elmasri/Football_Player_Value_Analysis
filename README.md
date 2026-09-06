@@ -3,7 +3,7 @@
 https://img.shields.io/badge/SQL-SQLite-green
 https://img.shields.io/badge/Pandas-Data%20Analysis-orange
 https://img.shields.io/badge/Machine%20Learning-Linear%20Regression-red
-https://img.shields.io/badge/Project-Completed-brightgreen)
+https://img.shields.io/badge/Project-Completed-brightgreen
 
 A data analysis project using **SQL, Python, and machine learning** to investigate how **age, position, league, and on-field performance** influence professional football player market values.
 
