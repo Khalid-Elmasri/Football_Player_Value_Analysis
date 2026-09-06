@@ -1,10 +1,10 @@
 # ⚽ What Factors Drive Football Player Market Value?
 
-![Python](https://img.shields.io/badge11-blue
-![SQLite](https://img.shieldsSQLite-Database-green
-![Pandas](https://img.shields.io/badge/Pandas-Datas-orange
-![Scs://img.shields.io/badge/Scikit--Learn-Regression-red
-![Statusimg.shields.io/badge/Status-Completed-brightgreen
+![Python](https://img.shields.io/badge11-blue)
+![SQLite](https://img.shieldsSQLite-Database-green)
+![Pandas](https://img.shields.io/badge/Pandas-Datas-orange)
+![Scs://img.shields.io/badge/Scikit--Learn-Regression-red]
+![Statusimg.shields.io/badge/Status-Completed-brightgreen]
 
 A data analysis project using **SQL, Python, and machine learning** to investigate how **age, position, league, and on-field performance** influence professional football player market values.
 
